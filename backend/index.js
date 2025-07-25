@@ -206,7 +206,7 @@ app.listen(PORT, () => {
 });
 
 app.use(cors({
-  origin: ["http://localhost:3000","http://localhost:3002"], // your frontend URL
+  origin: ["http://localhost:3000","http://localhost:3001"], // your frontend URL
   credentials: true
 }));
 

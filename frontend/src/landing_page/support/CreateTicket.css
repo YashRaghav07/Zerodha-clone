@@ -1,0 +1,16 @@
+.col p :hover{
+    color:rgb(114, 111, 111);
+}
+.col p a{
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+.col a{
+    text-decoration: none;
+}
+.fs-5{
+    color: rgb(42, 41, 41);
+}
+.fs-5:hover{
+    color: #387ed1;
+}

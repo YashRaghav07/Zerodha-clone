@@ -1,0 +1,17 @@
+.hero{
+    background-color: #387ed1;
+    color: white;
+}
+.hero a{
+    color: white;
+    font-size: 1.1rem;
+}
+.bor a{
+    color: white;
+    font-size: 1.1rem;
+    text-decoration: none;
+    border-bottom: 1px solid white;
+}
+input{
+    height: 3.5rem;
+}
